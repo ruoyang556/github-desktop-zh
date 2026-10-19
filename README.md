@@ -14,7 +14,7 @@
 
 </div>
 
-![效果截图](docs/images/screenshot.png)
+![效果截图](docs/images/screenshot.png?v=2)
 
 <p align="center"><em>GitHub Desktop 3.6.7 —— 菜单栏、侧栏、提交区、建议卡片全部中文</em></p>
 
