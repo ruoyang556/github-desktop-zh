@@ -9,6 +9,7 @@
 [![No Node.js](https://img.shields.io/badge/Node.js-not%20required-3fb950?style=flat-square)]()
 [![Desktop](https://img.shields.io/badge/GitHub%20Desktop-3.x-58a6ff?style=flat-square)]()
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)]()
+[![Release](https://img.shields.io/github/v/release/ruoyang556/github-desktop-zh?style=flat-square)](https://github.com/ruoyang556/github-desktop-zh/releases)
 
 [快速开始](#-快速开始) · [工作原理](#-工作原理) · [架构详解](docs/ARCHITECTURE.md) · [命令行](#-命令行参数) · [贡献词条](#-贡献词条) · [FAQ](#-faq)
 
@@ -55,7 +56,7 @@ GitHub Desktop 官方**从未提供中文语言包**，界面文案全部硬编�
 ### 1. 获取
 
 ```bash
-git clone https://github.com/<your-name>/github-desktop-zh.git
+git clone https://github.com/ruoyang556/github-desktop-zh.git
 cd github-desktop-zh
 ```
 
