@@ -150,7 +150,7 @@ pwsh -File .\一键汉化.ps1 -Restore
 | `-Help` | 帮助 |
 
 ```powershell
-pwsh -File .\一键汉化.ps1 -DryRun -AppDir "C:\Users\me\AppData\Local\GitHubDesktop\app-3.6.7\resources\app"
+pwsh -File .\一键汉化.ps1 -DryRun -AppDir "$env:LOCALAPPDATA\GitHubDesktop\app-3.6.7\resources\app"
 ```
 
 ---

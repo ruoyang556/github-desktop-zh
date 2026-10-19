@@ -14,3 +14,17 @@ desktop.ini
 .vscode/
 .idea/
 *.log
+
+# ---- 敏感信息（防止误提交）----
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.token
+id_rsa*
+id_ed25519*
+*credential*
+*secret*
+*.log
