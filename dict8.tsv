@@ -1,0 +1,77 @@
+Can't check for updates on Windows 8.1 or older. Next available update only supports Windows 10 and later	无法在 Windows 8.1 或更早版本上检查更新。下一个可用更新仅支持 Windows 10 及更高版本
+Can't check for updates on macOS 12 or older. Next available update only supports macOS 13 and later	无法在 macOS 12 或更早版本上检查更新。下一个可用更新仅支持 macOS 13 及更高版本
+Cannot pull from a remote whose name starts with '-'.	无法从名称以 '-' 开头的远程拉取。
+Could not delete the branch. It was probably already deleted.	无法删除该分支，它可能已经被删除了。
+Could not determine main worktree repository type	无法确定主工作树的仓库类型
+Could not determine repository type	无法确定仓库类型
+Could not find a branch to perform force push	找不到可用于强制推送的分支
+Could not find a default branch to compare against.	找不到可用于比较的默认分支。
+Could not find an upstream branch which will be pushed	找不到将被推送的上游分支
+Could not find main worktree	找不到主工作树
+Could not get checks for PR	无法获取拉取请求的检查结果
+Could not get git version information	无法获取 Git 版本信息
+Could not get remote URL	无法获取远程 URL
+Could not hand off to GitHub Copilot	无法交接给 GitHub Copilot
+Could not list worktrees	无法列出工作树
+Could not list worktrees from the main worktree	无法从主工作树列出工作树
+Could not open global Git config for editing	无法打开全局 Git 配置进行编辑
+Could not prompt for GitHub sign in	无法提示登录 GitHub
+Could not resolve the main worktree path	无法解析主工作树路径
+Error checking for updates	检查更新时出错
+Error checking merge status.	检查合并状态时出错。
+Error installing CLI	安装 CLI 时出错
+Error migrating existing GUID	迁移现有 GUID 时出错
+Error setting sign in endpoint	设置登录端点时出错
+Failed determining mergeability	无法判断可合并性
+Failed discarding changes	丢弃改动失败
+Failed moving repository to trash	无法将仓库移入回收站
+Failed resolving JetBrains Toolbox products	解析 JetBrains Toolbox 产品失败
+Failed resolving current editor at startup	启动时解析当前编辑器失败
+Failed to find system git in PATH	在 PATH 中找不到系统 Git
+Failed to find the newly created worktree	找不到新建的工作树
+Failed to load avatar token	加载头像令牌失败
+Failed to refresh worktrees	刷新工作树失败
+Failed to start pull request because pull request state was null	无法创建拉取请求，因为拉取请求状态为空
+Failed updating remote HEAD	更新远程 HEAD 失败
+No Copilot endpoint available	没有可用的 Copilot 端点
+No Copilot resolution available	没有可用的 Copilot 解决方案
+No Copilot resolution available for this file.	此文件没有可用的 Copilot 解决方案。
+No conflict markers found	未找到冲突标记
+No conflicts remaining	没有剩余冲突
+No pull requests found	未找到拉取请求
+No repositories	没有仓库
+No repository selected	未选择仓库
+No reviews found	未找到审阅
+Something went wrong. Please, try again later.	出错了，请稍后再试。
+The GitHub Enterprise instance address doesn't appear to be a valid URL. We're expecting something like https://example.ghe.com.	GitHub Enterprise 实例地址似乎不是有效的 URL，格式应类似 https://example.ghe.com。
+The branch could not be renamed.	无法重命名该分支。
+The branch is the repository's default branch and cannot be deleted.	该分支是仓库的默认分支，无法删除。
+The branch name cannot be a 40-character string of hexadecimal characters, as this is the format that Git uses for representing objects.	分支名不能是 40 位十六进制字符串，因为这是 Git 表示对象所用的格式。
+The command could not be completed.	该命令未能完成。
+The current branch is already up to date with the selected branch.	当前分支已与所选分支保持同步。
+The current branch is unborn.	当前分支尚未诞生。
+The current repository is in a detached HEAD state.	当前仓库处于分离的 HEAD 状态。
+The force push has been rejected for the current branch.	当前分支的强制推送已被拒绝。
+The host is down. Check your Internet connection and try again.	主机不可达，请检查网络连接后重试。
+The merge you attempted is not a fast-forward, so it cannot be performed on an empty branch.	你尝试的合并不是快进，因此无法在空分支上执行。
+The object was not found in the Git repository.	在 Git 仓库中找不到该对象。
+The push operation includes a file which exceeds GitHub's file size restriction of 100MB. Please remove the file from history and try again.	推送中包含超过 GitHub 100MB 限制的文件，请从历史记录中移除该文件后重试。
+The push was rejected by the remote server because a required status check has not been satisfied.	推送被远程服务器拒绝，因为必需的状态检查尚未通过。
+The remote branch does not exist.	远程分支不存在。
+The remote disconnected. Check your Internet connection and try again.	远程连接已断开，请检查网络连接后重试。
+The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.	该仓库似乎已不存在。你可能没有访问权限，或者它已被删除或重命名。
+The repository has been updated since you last pulled. Try pulling before pushing.	自你上次拉取以来仓库已有更新，请在推送前先拉取。
+The repository has no remotes.	该仓库没有远程。
+The requested changes conflict with one or more files in the repository.	请求的改动与仓库中的一个或多个文件冲突。
+Unable to load the diff for this file.	无法加载此文件的差异。
+Unable to merge unrelated histories in this repository	无法在此仓库中合并不相关的历史记录
+Unable to publish repository. Please check if you have an internet connection and try again.	无法发布仓库，请检查网络连接后重试。
+Unable to rebase these branches because one or both of the refs do not exist in the repository	无法变基这些分支，因为其中一个或两个 ref 在仓库中不存在
+Unable to start rebase. Check you have chosen a valid branch.	无法开始变基，请检查你选择的分支是否有效。
+Unable to switch branches as there are working directory changes which would be overwritten. Please commit or stash your changes.	无法切换分支，因为工作区改动会被覆盖。请先提交或暂存改动。
+Failed to discard changes to 	无法丢弃以下文件的改动：
+The currently checked out branch is	当前检出的分支是
+Rename…	重命名…
+Delete…	删除…
+Remove…	移除…
+Remove alias	移除别名

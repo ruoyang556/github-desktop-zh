@@ -1,0 +1,32 @@
+(Ignore all )(\$\{[^}]*\})( files \(add to \.gitignore\))	忽略所有 $2 文件（添加到 .gitignore）
+(Discard )(\$\{[^}]*\})( selected changes)	丢弃所选的 $2 项改动
+(Ignore )(\$\{[^}]*\})( selected files)	忽略所选的 $2 个文件
+(O&pen in )(\$\{[^}]*\})	在 $2 中打开
+(&Open in )(\$\{[^}]*\})	&在 $2 中打开
+(Open in )(\$\{[^}]*\})	在 $2 中打开
+(&Update from )(\$\{[^}]*\})	&从 $2 更新
+(Update from )(\$\{[^}]*\})	从 $2 更新
+(Create )(\$\{[^}]*\})	新建 $2
+(Delete )(\$\{[^}]*\})	删除 $2
+(Update )(\$\{[^}]*\})	更新 $2
+"Hide":"Show"	"隐藏":"显示"
+" Toggle Chan&ges Filter"	"筛&选切换"
+(Failed to move the repository directory to )(\$\{[^}]*\})(\.\\n\\nA common reason for this is that the directory or one of its files is open in another program\.)	无法将仓库目录移到 $2。常见原因是该目录或其中的某个文件正在被其他程序占用。
+(Couldn't find branch ')(\$\{[^}]*\})(' in remote ')(\$\{[^}]*\})('\. A common reason for this is that the PR author has deleted their branch or their forked repository\.)	在远程 '$4' 中找不到分支 '$2'。常见原因是 PR 作者已删除其分支或 fork 的仓库。
+(Could not find executable for ')(\$\{[^}]*\})(' at path ')(\$\{[^}]*\})('\.  Please open )(\$\{[^}]*\})( and select an available shell\.)	在路径 '$4' 找不到 '$2' 的可执行文件。请打开 $6 并选择一个可用的 shell。
+(Could not find executable for custom shell at path ')(\$\{[^}]*\})('\.  Please open )(\$\{[^}]*\})( and select an available shell\.)	在路径 '$2' 找不到自定义 shell 的可执行文件。请打开 $4 并选择一个可用的 shell。
+(Could not find executable for )(\$\{[^}]*\})( at path ')(\$\{[^}]*\})('\. Please open )(\$\{[^}]*\})( and select an available editor\.)	在路径 '$4' 找不到 $2 的可执行文件。请打开 $6 并选择一个可用的编辑器。
+(The editor ')(\$\{[^}]*\})(' could not be found\. Please open Options and choose an available editor\.)	找不到编辑器 '$2'。请打开选项并选择一个可用的编辑器。
+(The path ')(\$\{[^}]*\})(' already exists\. Please move it out of the way, or remove it, and then try again\.)	路径 '$2' 已存在。请将其移走或删除后重试。
+(The clone destination ")(\$\{[^}]*\})(" targets a sensitive system location\. Cloning into this directory is not allowed\.)	克隆目标 "$2" 指向敏感的系统位置，不允许克隆到此目录。
+(Something went wrong while trying to start )(\$\{[^}]*\})(\. Please open )(\$\{[^}]*\})( and try another editor\.)	启动 $2 时出错。请打开 $4 并尝试其他编辑器。
+(Could not list worktrees in ')(\$\{[^}]*\})(')	无法列出 '$2' 中的工作树
+(Error occurred while trying to merge )	尝试合并时出错：
+(Push )(\$\{[^}]*\})( to the )(\$\{[^}]*\})( remote)	推送 $2 到 $4 远程
+(You have )(\$\{[^}]*\})( waiting to be pushed to )(\$\{[^}]*\})(\.)	你有 $2 等待推送到 $4。
+(View the files of your repository in )(\$\{[^}]*\})	在 $2 中查看仓库文件
+(Fetching )(\$\{[^}]*\})	正在获取 $2
+(Pushing )(\$\{[^}]*\})	正在推送 $2
+(Pulling )(\$\{[^}]*\})	正在拉取 $2
+\(null==t\.alias\?"Create":"Change"\)\+" alias"	(null==t.alias?"创建":"更改")+"别名"
+\(t\.alias==null\?"Create":"Change"\)\+" alias"	(t.alias==null?"创建":"更改")+"别名"

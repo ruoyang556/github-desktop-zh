@@ -1,0 +1,60 @@
+Worktree name	工作树名称
+worktree name	工作树名称
+worktree path	工作树路径
+Open the repository page on GitHub in your browser	在浏览器中打开 GitHub 上的仓库页面
+A branch with that name already exists.	已存在同名分支。
+A lock file already exists in the repository, which blocks this operation from completing.	仓库中已存在锁文件，导致此操作无法完成。
+A ref cannot be longer than 255 characters.	ref 名称长度不能超过 255 个字符。
+A submodule points to a commit which does not exist.	某个子模块指向的提交不存在。
+A submodule points to a location which does not exist.	某个子模块指向的位置不存在。
+A tag with that name already exists	已存在同名标签
+A tag with that name already exists.	已存在同名标签。
+Another git process seems to be running in this repository, e.g.	看似有另一个 git 进程正在此仓库中运行，例如
+Authentication failed: user cancelled authentication	认证失败：用户取消了认证
+Bad revision.	版本无效。
+Base (common ancestor):	基准（共同祖先）：
+Branch fast-forwarding failed	分支快进失败
+Checking mergeability…	正在检查可合并性…
+Checking out commit	正在检出提交
+Cherry-pick to new branch	拣选到新分支
+Choose a base branch	选择基础分支
+Choose a resolution	选择解决方案
+Collapse description	收起描述
+Expand description	展开描述
+Context after:	后文：
+Context before:	前文：
+Conflict resolution failed	冲突解决失败
+Copilot is powered by AI, so mistakes are possible.	Copilot 由 AI 驱动，因此可能出错。
+Already up to date.\n	已是最新状态。\n
+Already up to date.	已是最新状态。
+Binary files 	二进制文件 
+Cannot open 	无法打开 
+There are no changes to commit.	没有可提交的改动。
+No changes to commit	没有要提交的改动
+Select a single commit or a range of consecutive commits to view a diff.	请选择单个提交或一段连续的提交以查看差异。
+Drag the commits to branch menu to cherry-pick them.	将提交拖到分支菜单即可拣选它们。
+Right click on multiple commits to see options.	右键点击多个提交可查看更多选项。
+Update commit summary with generated message	用生成的信息更新提交摘要
+Stop amending the commit	停止修补该提交
+Amend last commit	修补上次提交
+Create tag here	在此创建标签
+Reset branch to this commit	将分支重置到此提交
+Open the repository in your external editor	在外部编辑器中打开仓库
+Select your editor in	选择编辑器：
+Always available in the toolbar or	在工具栏中始终可用，或
+Always available in the toolbar when there are local commits waiting to be pushed or 	当有等待推送的本地提交时，在工具栏中始终可用，或 
+Always available in the toolbar for local repositories or	本地仓库在工具栏中始终可用，或
+the remote	远程
+1 local commit	1 个本地提交
+local commits	个本地提交
+local commit	个本地提交
+New branch	新建分支
+Pull requests	拉取请求
+Hang on…	请稍候…
+Hang on...	请稍候...
+Pull requests in 	以下仓库的拉取请求：
+Pull requests targeting 	针对以下目标的拉取请求：
+Choose a new alias for the repository "	为以下仓库选择一个新别名："
+Create repository alias	创建仓库别名
+Change repository alias	更改仓库别名
+Alias	别名

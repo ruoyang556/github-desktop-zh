@@ -1,0 +1,170 @@
+GitHub reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. GitHub shall not be liable to you or to any third-party for any price change, suspension or discontinuance of the Service.	GitHub 保留随时或不时修改或中止服务（或其任何部分）的权利，无论是否通知。GitHub 不对你或任何第三方承担因价格变动、暂停或中止服务而产生的任何责任。
+When enabled, GitHub Desktop will attempt to load environment variables from your shell when executing Git hooks. This is useful if your Git hooks depend on environment variables set in your shell configuration files, a common practice for version managers such as nvm, rbenv, asdf, etc.	启用后，GitHub Desktop 在执行 Git 钩子时会尝试从你的 shell 加载环境变量。如果你的 Git 钩子依赖 shell 配置文件中的环境变量（这是 nvm、rbenv、asdf 等版本管理器的常见做法），此功能会很有用。
+Third-Party Packages. The Software supports third-party "Packages" which may modify, add, remove, or alter the functionality of the Software. These Packages are not covered by these Application Terms and may include their own license which governs your use of that particular package.	第三方包。本软件支持第三方“包”，它们可能修改、增加、移除或改变本软件的功能。这些包不受本应用条款约束，并可能附带支配你使用该特定包的独立许可。
+Governing Law. You agree that these Application Terms and your use of the Software are governed under California law and any dispute related to the Software must be brought in a tribunal of competent jurisdiction located in or near San Francisco, California.	适用法律。你同意本应用条款及你对本软件的使用受加利福尼亚州法律管辖，任何与本软件相关的争议必须提交至位于加利福尼亚州旧金山或其附近的具有管辖权的法庭。
+The Software may collect personal information. You may control what information the Software collects in the settings panel. If the Software does collect personal information on GitHub's behalf, GitHub will process that information in accordance with the	本软件可能会收集个人信息。你可以在设置面板中控制本软件收集哪些信息。如果本软件代表 GitHub 收集个人信息，GitHub 将依据以下条款处理该信息
+The Software may include an auto-update service ("Service"). If you choose to use the Service or you download Software that automatically enables the Service, GitHub will automatically update the Software when a new version is available.	本软件可能包含自动更新服务（“服务”）。如果你选择使用该服务，或下载的软件自动启用了该服务，GitHub 将在新版本可用时自动更新本软件。
+GitHub Desktop is unable to push commits to this branch because there are commits on the remote that are not present on your local branch. Fetch these new commits before pushing in order to reconcile them with your local commits.	GitHub Desktop 无法将提交推送到此分支，因为远程存在你本地分支没有的提交。推送前请先获取这些新提交，以便与你的本地提交协调一致。
+The open source license for the Software is included in the "Open Source Notices" documentation that is included with the Software. That documentation also includes copies of all applicable open source licenses.	本软件的开源许可包含在随软件一同提供的“开源声明”文档中。该文档还包含所有适用开源许可的副本。
+A commit allows you to save sets of changes. In the “summary“ field in the bottom left, write a short message that describes the changes you made. When you’re done, click the blue Commit button to finish.	提交用于保存一组改动。在左下角的“摘要”栏中，写一条简短的信息来描述你做的改动。完成后，点击蓝色的“提交”按钮即可。
+A pull request allows you to propose changes to the code. By opening one, you’re requesting that someone review and merge them. Since this is a demo repository, this pull request will be private.	拉取请求让你可以对代码提出改动建议。打开拉取请求即表示你请求他人审阅并合并这些改动。由于这是演示仓库，此拉取请求将是私有的。
+When enabled, check marks will be displayed along side the line numbers and groups of line numbers in the diff when committing. When disabled, the line number controls will be less prominent.	启用后，提交时会在差异视图中行号及连续行号组旁边显示勾选标记。禁用后，行号控件会变得不显眼。
+Couldn't determine the last time an update check was performed. You may be running an old version. Please try manually checking for updates and contact GitHub Support if the problem persists	无法确定上次检查更新的时间。你可能正在运行旧版本。请尝试手动检查更新，如果问题仍然存在，请联系 GitHub 支持。
+We've detected that you're not running GitHub Desktop from the Applications folder of your machine. This could cause problems with the app, including impacting your ability to sign in.	我们发现你并非从机器的“应用程序”文件夹中运行 GitHub Desktop。这可能会导致应用出现问题，包括影响你登录的能力。
+A force push will rewrite history on the remote. Any collaborators working on this branch will need to reset their own local branch to match the history of the remote.	强制推送会重写远程的历史记录。任何在此分支上协作的人都必须重置自己的本地分支以匹配远程历史。
+Turning this off will not stop the periodic fetching of your currently selected repository, but may improve overall app performance for users with many repositories.	关闭此项不会停止对你当前所选仓库的定期获取，但可以改善拥有大量仓库的用户的整体应用性能。
+No Waiver. The failure of GitHub to exercise or enforce any right or provision of these Application Terms shall not constitute a waiver of such right or provision.	不放弃权利。GitHub 未行使或执行本应用条款中的任何权利或规定，不构成对该权利或规定的放弃。
+Reasoning models (o1, o3, GPT-5 reasoning variants, etc.) think before responding. Higher levels are slower but produce better answers on complex tasks. Leave on	推理模型（o1、o3、GPT-5 推理变体等）会先思考再回应。级别越高速度越慢，但在复杂任务上能给出更好的答案。保持开启
+Your browser will redirect you back to GitHub Desktop once you've signed in. If your browser asks for your permission to launch GitHub Desktop, please allow it.	登录后，你的浏览器会跳转回 GitHub Desktop。如果浏览器请求你允许启动 GitHub Desktop，请选择允许。
+GitHub Desktop is a seamless way to contribute to projects on GitHub and GitHub Enterprise. Sign in below to get started with your existing projects.	GitHub Desktop 是参与 GitHub 与 GitHub Enterprise 项目协作的顺畅方式。请在下方登录，以开始使用你现有的项目。
+You have changes in progress. Resetting to a previous commit might result in some of these changes being lost. Do you want to continue anyway?	你有尚未完成的改动。重置到之前的提交可能会导致部分改动丢失。是否仍要继续？
+This repository is currently only available on your local machine. By publishing it on GitHub you can share it, and collaborate with others.	此仓库目前仅存在于你的本地机器上。通过在 GitHub 上发布它，你可以与他人共享并协作。
+Publishing will “push”, or upload, your commits to this branch of your repository on GitHub. Publish using the third button in the top bar.	发布会将你的提交“推送”或上传到你在 GitHub 上此仓库的该分支。请使用顶部工具栏中的第三个按钮进行发布。
+Checking out a commit will create a detached HEAD, and you will no longer be on any branch. Are you sure you want to checkout this commit?	检出提交会进入分离的 HEAD 状态，你将不再处于任何分支上。确定要检出此提交吗？
+appears to be owned by another user on your machine. Adding untrusted repositories may automatically execute files in the repository.	似乎属于你机器上的另一位用户。添加不受信任的仓库可能会自动执行该仓库中的文件。
+Add a custom provider to use your own API keys with OpenAI-compatible endpoints, Azure, Anthropic, or local providers like Ollama.	添加自定义服务商，以便在兼容 OpenAI 的端点、Azure、Anthropic 或 Ollama 等本地服务商上使用你自己的 API 密钥。
+You have changes in progress. Undoing the commit might result in some of these changes being lost. Do you want to continue anyway?	你有尚未完成的改动。撤销提交可能会导致部分改动丢失。是否仍要继续？
+Cache hook environment variables to improve performance. Disable if your hooks rely on frequently changing environment variables.	缓存钩子环境变量以提升性能。如果你的钩子依赖频繁变化的环境变量，请禁用此项。
+Any use of the Software that violates your applicable GitHub Terms will also be a violation of these Application Terms.	对本软件的任何使用如违反适用的 GitHub 条款，也将构成对本应用条款的违反。
+This is used to identify the commits you create. Anyone will be able to see this information if you publish commits.	此信息用于标识你创建的提交。如果你发布提交，任何人都可以看到此信息。
+Your current branch is unborn (does not contain any commits). Creating a new branch will rename the current branch.	你的当前分支尚未诞生（不包含任何提交）。创建新分支将重命名当前分支。
+To help you get Git installed and configured for your operating system, we have some external resources available.	为帮助你在自己的操作系统上安装并配置 Git，我们准备了一些外部资源。
+Tell Desktop which models this provider offers. Each one will appear in the model picker for Copilot features.	告诉 Desktop 此服务商提供哪些模型。每个模型都会出现在 Copilot 功能的模型选择器中。
+You can open this submodule on GitHub Desktop as a normal repository to manage and commit any changes in it.	你可以在 GitHub Desktop 中把此子模块当作普通仓库打开，以管理和提交其中的任何改动。
+There are no uncommitted changes in this repository. Here are some friendly suggestions for what to do next.	此仓库中没有未提交的改动。以下是一些友好的后续建议。
+These users weren't found and won't be added as co-authors of this commit. Are you sure you want to commit?	未找到这些用户，他们不会被添加为此提交的共同作者。确定要提交吗？
+If you trust the owner of the directory you can add an exception for this directory in order to continue.	如果你信任该目录的所有者，可以为该目录添加例外以继续。
+You have changes in progress. Undoing the merge commit might result in some of these changes being lost.	你有尚未完成的改动。撤销合并提交可能会导致部分改动丢失。
+You’ve learned the basics on how to use GitHub Desktop. Here are some suggestions for what to do next.	你已经掌握了使用 GitHub Desktop 的基础知识。以下是一些接下来可以尝试的建议。
+Directory could not be created at this path. You may not have permissions to create a directory here.	无法在此路径创建目录。你可能没有在此创建目录的权限。
+Do not close GitHub Desktop while the update is in progress. Closing now may break your installation.	更新进行中，请勿关闭 GitHub Desktop。现在关闭可能会损坏你的安装。
+Are you sure you want to proceed? This will overwrite your existing stash with your current changes.	确定要继续吗？这会用你当前的改动覆盖现有的暂存。
+If you choose to commit, you’ll be committing the following conflicted files into your repository:	如果你选择提交，将会把以下有冲突的文件提交到你的仓库：
+Do you want to move GitHub Desktop to the Applications folder now? This will also restart the app.	是否现在将 GitHub Desktop 移到“应用程序”文件夹？这也会重启应用。
+This branch does not exist locally. Deleting it may impact others collaborating on this branch.	此分支在本地不存在。删除它可能会影响在此分支上协作的其他人。
+If you are using GitHub Enterprise at work, sign in to it to get access to your repositories.	如果你在工作中使用 GitHub Enterprise，请登录它以访问你的仓库。
+Would you like to open a browser to grant GitHub Desktop permission to update workflow files?	是否打开浏览器，授予 GitHub Desktop 更新工作流文件的权限？
+Would you like to open a browser to grant GitHub Desktop permission to access the repository?	是否打开浏览器，授予 GitHub Desktop 访问该仓库的权限？
+If you commit these files, you will no longer be able to push this repository to GitHub.com.	如果你提交这些文件，你将无法再将此仓库推送到 GitHub.com。
+Are you sure you want to leave the tutorial? This will bring you back to the home screen.	确定要退出教程吗？这会让你返回首页。
+The commit message you have entered will be overridden by the generated commit message.	你输入的提交信息将被自动生成的提交信息覆盖。
+The push was rejected by the server for containing a modification to the workflow file	推送被服务器拒绝，因为其中包含对工作流文件的修改
+The application is currently running in development and will not receive any updates.	应用当前以开发模式运行，不会接收任何更新。
+Interacting with individual lines or hunks will be disabled while hiding whitespace.	隐藏空白改动时，将无法对单行或代码块进行操作。
+file already. Checking this box will result in the existing file being overwritten.	文件已存在。勾选此项将导致现有文件被覆盖。
+This operating system is no longer supported. Software updates have been disabled.	此操作系统已不再受支持，软件更新已被禁用。
+This will create a repository on your local machine, and push it to your account	这将在你的本地机器上创建仓库，并将其推送到你的账户
+If you are unsure of what to do, cancel and contact your system administrator.	如果你不确定该怎么做，请取消并联系你的系统管理员。
+Your account token has been invalidated and you have been signed out from your	你的账户令牌已失效，你已被登出以下账户
+Review the suggested resolutions carefully before applying them to your files.	在将建议的解决方案应用到文件之前，请仔细审阅。
+The branch also exists on the remote, do you wish to delete it there as well?	该分支也存在于远程，是否同时在远程删除它？
+When a stash exists, access it at the bottom of the Changes tab to the left.	存在暂存时，可在左侧“改动”标签页的底部访问它。
+You can try to show it anyway, but performance may be negatively impacted.	你仍可尝试显示它，但性能可能会受到影响。
+Use this tutorial to get comfortable with Git, GitHub, and GitHub Desktop.	使用本教程熟悉 Git、GitHub 和 GitHub Desktop。
+If your GitHub Enterprise instance is run on an unusual top-level domain.	如果你的 GitHub Enterprise 实例运行在非常规顶级域名上。
+Select a single commit or a range of consecutive commits to view a diff.	选择单个提交或一段连续的提交以查看差异。
+and renaming this branch will not change the branch name on the remote.	而重命名此分支不会改变远程上的分支名。
+Contact Us. Please send any questions about these Application Terms to	联系我们。有关本应用条款的任何问题，请发送至
+You have changes on this branch. What would you like to do with them?	你在此分支上有改动。你希望如何处理这些改动？
+Your new branch will be based on your currently checked out branch (	你的新分支将基于你当前检出的分支（
+The file is in conflict and must be resolved via the command line.	该文件处于冲突状态，必须通过命令行解决。
+Sign in to your GitHub.com account to access your repositories.	登录你的 GitHub.com 账户以访问你的仓库。
+Unable to display diff when multiple non-consecutive selected.	选择了多个不连续的提交时无法显示差异。
+Your current stash will be overwritten by creating a new stash	创建新暂存将覆盖你当前的暂存
+Unable to start rebase. Check you have chosen a valid branch.	无法开始变基。请检查你选择的分支是否有效。
+This branch may have an open pull request associated with it.	此分支可能关联着一个未关闭的拉取请求。
+Your branch must be published before opening a pull request.	在打开拉取请求之前，必须先发布你的分支。
+Spaces and invalid characters have been replaced by hyphens.	空格和无效字符已被替换为连字符。
+Would you like to update the remote to use the expected URL?	是否更新远程以使用预期的 URL？
+This will not affect the original repository name on GitHub.	这不会影响 GitHub 上的原始仓库名称。
+Selecting lines is disabled when hiding whitespace changes.	隐藏空白改动时无法选择行。
+No credentials will be sent with requests to this provider.	向此服务商发出的请求不会携带任何凭据。
+An update has been downloaded and is ready to be installed.	更新已下载完成，可以安装了。
+You can stash your changes now and recover them afterwards.	你可以现在暂存改动，之后再进行恢复。
+Push the secret(s) to this repository without being blocked	将机密推送到此仓库且不被拦截
+Review and edit the generated message carefully before use.	使用前请仔细审阅并编辑生成的信息。
+This may indicate attackers are trying to steal your data.	这可能表明攻击者正试图窃取你的数据。
+is where you store your code and collaborate with others.	是你存放代码并与他人协作的地方。
+Add a repository to GitHub Desktop to start collaborating	向 GitHub Desktop 添加仓库以开始协作
+Are you sure you want to discard the selected changes to:	确定要丢弃对以下内容的所选改动吗：
+Drag the commits to the branch menu to cherry-pick them.	将提交拖到分支菜单即可按需拣选。
+You can only open pull requests against remote branches.	你只能对远程分支打开拉取请求。
+removing the secret from your commit and commit history.	从提交和提交历史中移除该机密。
+Great commit summaries contain fewer than 50 characters	好的提交摘要应少于 50 个字符
+Git is requesting permission to sign in to this server:	Git 正在请求登录此服务器的权限：
+Are you sure you want to commit these conflicted files?	确定要提交这些有冲突的文件吗？
+Are you sure you want to discard these stashed changes?	确定要丢弃这些暂存的改动吗？
+Unable to merge unrelated histories in this repository	无法在此仓库中合并不相关的历史记录
+This directory does not appear to be a Git repository.	此目录似乎不是 Git 仓库。
+Only continue if you recognize and trust this server.	仅当你认识并信任此服务器时才继续。
+No models yet. Add at least one to use this provider.	还没有模型。至少添加一个才能使用此服务商。
+for non-reasoning models or to let the provider pick.	用于非推理模型，或让服务商自行选择。
+This repository is a fork. How do you plan to use it?	此仓库是一个 fork。你打算如何使用它？
+Your branch is up to date with the compared branch (	你的分支已与所比较的分支保持同步（
+The friendly name shown in the Copilot model picker.	在 Copilot 模型选择器中显示的友好名称。
+GitHub Open Source Applications Terms and Conditions	GitHub 开源应用条款与条件
+Model changes apply to future conflict resolutions.	模型更改将应用于后续的冲突解决。
+The repository will be removed from GitHub Desktop:	该仓库将从 GitHub Desktop 中移除：
+Don’t worry, you can still create the pull request.	别担心，你仍然可以创建拉取请求。
+Could not find a default branch to compare against.	找不到可用于比较的默认分支。
+Place extra information in the description field.	在描述栏中填写额外信息。
+will move your stashed files to the Changes list.	会将你暂存的文件移到“改动”列表。
+Learn more about bidirectional Unicode characters	了解双向 Unicode 字符的更多信息
+The diff is too large to be displayed by default.	差异过大，默认不予显示。
+Invalid characters have been replaced by hyphens.	无效字符已被替换为连字符。
+In some cases, this may be expected. For example:	在某些情况下这属于预期行为。例如：
+Are you sure you want to discard all changes to:	确定要丢弃对以下内容的全部改动吗：
+Overriding commit message with generated message	用生成的信息覆盖提交信息
+Repository URL or GitHub username and repository	仓库 URL，或 GitHub 用户名及仓库名
+GitHub Desktop also distributes these libraries:	GitHub Desktop 还分发以下库：
+Would you like to forcefully delete the worktree	是否强制删除工作树
+Right click on multiple commits to see options.	右键点击多个提交可查看更多选项。
+If you trust the owner of the directory you can	如果你信任该目录的所有者，你可以
+Move GitHub Desktop to the Applications folder?	将 GitHub Desktop 移到“应用程序”文件夹？
+Load Git hook environment variables from shell	从 shell 加载 Git 钩子环境变量
+No Copilot resolution available for this file.	此文件没有可用的 Copilot 解决方案。
+Checking for ability to merge automatically...	正在检查是否可以自动合并...
+There are no steps to display for this check.	此检查没有可显示的步骤。
+Work on an existing project in GitHub Desktop	在 GitHub Desktop 中处理现有项目
+Checking for ability to rebase automatically…	正在检查是否可以自动变基…
+Are you sure you want to continue connecting?	确定要继续连接吗？
+Know which resources the secret(s) can access	了解该机密能访问哪些资源
+Learn more about generating commit messages.	了解生成提交信息的更多信息。
+appears to be a subfolder of Git repository.	似乎是 Git 仓库的子文件夹。
+Responsible use of Copilot in GitHub Desktop	在 GitHub Desktop 中负责任地使用 Copilot
+Are you sure you want to delete the worktree	确定要删除工作树
+Do you want to create a new branch instead?	是否改为创建新分支？
+Drag the commits to squash or reorder them.	拖动提交即可压缩或重新排序。
+Select the type of notification to display:	选择要显示的提示类型：
+Learn more about Copilot in GitHub Desktop.	了解 GitHub Desktop 中 Copilot 的更多信息。
+The file was renamed and includes changes.	该文件被重命名并包含改动。
+Contribute to a project that interests you	为你感兴趣的项目贡献代码
+If I have changes and I switch branches...	如果我有改动并切换分支...
+The exact name your provider expects (e.g.	你的服务商所要求的确切名称（例如
+Exposing this secret can allow someone to:	泄露该机密可能使他人能够：
+Show status icons in the repository list	在仓库列表中显示状态图标
+Default branch name for new repositories	新仓库的默认分支名
+Initialize this repository with a README	使用 README 初始化此仓库
+Disclaimers and Limitations of Liability	免责声明与责任限制
+All conflicted files have been resolved.	所有有冲突的文件都已解决。
+are entirely different commit histories.	是完全不同的提交历史。
+Loading pull requests as fast as I can!	正在以最快速度加载拉取请求！
+People with discussion bubbles overhead	头顶有讨论气泡的人
+Determining which checks can be re-run.	正在确定哪些检查可以重新运行。
+Sorry, I can't find that remote branch.	找不到那个远程分支。
+The diff is too large to be displayed.	差异过大，无法显示。
+Sorry, I can't find that pull request!	找不到那个拉取请求！
+How are you planning to use this fork?	你打算如何使用这个 fork？
+Unable to load the diff for this file.	无法加载此文件的差异。
+account. Do you want to sign in again?	账户。是否要重新登录？
+Restricted access to move the file(s).	无权移动这些文件。
+The email in your global Git config (	你全局 Git 配置中的邮箱（
+Learn more about remote repositories.	了解远程仓库的更多信息。
+Open this submodule on GitHub Desktop	在 GitHub Desktop 中打开此子模块
+Learn more about unreachable commits.	了解不可达提交的更多信息。
+Yes, delete this branch on the remote	是，在远程删除此分支
+Shell to use when loading environment	加载环境时使用的 shell
+If this is a GitHub Enterprise trial.	如果这是 GitHub Enterprise 试用版。
+Release notes generated from markdown	由 markdown 生成的发行说明
+The file was renamed but not changed	该文件被重命名但没有内容改动
+Cache Git hook environment variables	缓存 Git 钩子环境变量

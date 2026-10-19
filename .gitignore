@@ -1,0 +1,16 @@
+# ---- 本地生成物（不入库）----
+backup/
+scan-*.txt
+out/renderer.js
+out/main.js
+out/index.html
+
+dist/
+
+# ---- 系统与编辑器 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log

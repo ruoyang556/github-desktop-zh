@@ -1,0 +1,170 @@
+Show a confirmation dialog before...	在...之前显示确认对话框
+No Copilot usage data available yet.	暂无 Copilot 使用数据。
+Creative Commons Attribution license	知识共享署名许可
+creating the fork manually on GitHub	在 GitHub 上手动创建 fork
+Do you want to fork this repository?	是否 fork 此仓库？
+Are you sure you want to force push?	确定要强制推送吗？
+Overage allowed with exhausted quota	配额用尽时允许超额使用
+Verify the identity of the secret(s)	验证该机密的身份
+Sorry, I can't find that repository	找不到那个仓库
+Learn more about commit attribution	了解提交归属的更多信息
+No files match your current filters	没有文件符合你当前的筛选条件
+helps you work with GitHub locally.	帮助你在本地使用 GitHub。
+Prefer absolute dates over relative	优先使用绝对日期而非相对日期
+Committing changes hidden by filter	正在提交被筛选隐藏的改动
+Confirm committing conflicted files	确认提交有冲突的文件
+Copilot conflict resolution summary	Copilot 冲突解决摘要
+Act on behalf of the secret's owner	代表机密所有者行事
+View all rulesets for this branch.	查看此分支的所有规则集。
+before creating your pull request?	在创建拉取请求之前？
+Get started on a brand new project	开始一个全新的项目
+Usage allowed with exhausted quota	配额用尽时允许使用
+Git is configured to convert them	Git 已配置为转换它们
+Hidden changes will be committed.	隐藏的改动也会被提交。
+Publish this repository to GitHub	将此仓库发布到 GitHub
+Some checks haven't completed yet	部分检查尚未完成
+Publish your repository to GitHub	将你的仓库发布到 GitHub
+Sign in to your GitHub Enterprise	登录你的 GitHub Enterprise
+The repository will be created at	仓库将创建于
+All resolutions have been undone.	所有解决方案均已撤销。
+Choose a resolution for this file	为此文件选择解决方案
+Configure Copilot in app settings	在应用设置中配置 Copilot
+Learn more about gitignore files	了解 gitignore 文件的更多信息
+Learn more about commit signing.	了解提交签名的更多信息。
+Untracked files will be excluded	未跟踪的文件将被排除
+Current worktree dropdown button	当前工作树下拉按钮
+Use system OpenSSH (recommended)	使用系统 OpenSSH（推荐）
+edit your global Git config file	编辑你的全局 Git 配置文件
+Looking for the latest features?	想使用最新功能吗？
+Open Source Licenses and Notices	开源许可与声明
+Showing changes from all commits	显示所有提交的改动
+Sorry, I can't find that branch	找不到那个分支
+Some checks were not successful	部分检查未成功
+GitHub's default branch name is	GitHub 的默认分支名是
+Learn more about GitHub Copilot	了解 GitHub Copilot 的更多信息
+Show Copilot model credit costs	显示 Copilot 模型的额度消耗
+Would you like to retry cloning	是否重试克隆
+License and Open Source Notices	许可与开源声明
+to store large files on GitHub.	以便在 GitHub 上存储大文件。
+Do you want to continue anyway?	是否仍要继续？
+You don't have write access to	你没有写入权限：
+Open file in external program.	用外部程序打开文件。
+Current branch dropdown button	当前分支下拉按钮
+is the version control system.	是版本控制系统。
+Do not show this message again	不再显示此消息
+Learn more about user metrics.	了解用户指标的更多信息。
+Discarding changes permanently	永久丢弃改动
+Allow me to expose this secret	允许我泄露此机密
+Will check out existing branch	将检出已存在的分支
+For this repository I wish to	对于此仓库，我希望
+Your changes will modify your	你的改动将修改你的
+This binary file has changed.	此二进制文件已更改。
+Only whitespace changes found	仅发现空白字符改动
+Choose a branch to merge into	选择要合并到的分支
+already exists on the remote.	已在远程存在。
+This action cannot be undone.	此操作无法撤销。
+Add GitHub Enterprise account	添加 GitHub Enterprise 账户
+Pull request markdown comment	拉取请求的 markdown 评论
+now and open a pull request?	立即打开拉取请求？
+Partially checked check list	部分勾选的检查列表
+Sign in to GitHub Enterprise	登录 GitHub Enterprise
+Show check marks in the diff	在差异中显示勾选标记
+No Copilot models available.	没有可用的 Copilot 模型。
+Error checking merge status.	检查合并状态时出错。
+Will check out remote branch	将检出远程分支
+Configure custom providers…	配置自定义服务商…
+Default (provider's choice)	默认（由服务商选择）
+Files that exceed the limit	超出大小限制的文件
+Supported operating systems	支持的操作系统
+Select a base branch above.	请在上方选择基础分支。
+Worktree will be created at	工作树将创建于
+Pull request markdown body	拉取请求的 markdown 正文
+Explore projects on GitHub	在 GitHub 上探索项目
+Sign in using your browser	使用浏览器登录
+is already up to date with	已与以下分支保持同步：
+Use Git Credential Manager	使用 Git 凭据管理器
+Show commit length warning	显示提交长度警告
+Chat completions (default)	对话补全（默认）
+URL or username/repository	URL 或 用户名/仓库名
+downloading GitHub Copilot	正在下载 GitHub Copilot
+Toggle password visibility	切换密码可见性
+Can't automatically merge.	无法自动合并。
+Test Copilot Snapshot Card	测试 Copilot 快照卡片
+Issues will be created in	议题将创建于
+No newline at end of file	文件末尾没有换行符
+Would you like to publish	是否发布
+View your stashed changes	查看你暂存的改动
+to choose a new location.	以选择新位置。
+Selected commit file list	所选提交的文件列表
+Welcome to GitHub Desktop	欢迎使用 GitHub Desktop
+Create your free account.	创建你的免费账户。
+GitHub Privacy Statement.	GitHub 隐私声明。
+Always show worktree list	始终显示工作树列表
+Loading available models…	正在加载可用模型…
+This directory contains a	此目录包含一个
+the password for the user	用户的密码
+Check run steps incoming!	检查运行步骤即将到来！
+I'll be using this fork…	我将使用此 fork…
+Open Summary Length Info	打开摘要长度说明
+Show whitespace changes?	显示空白改动？
+No content changes found	未发现内容改动
+No open pull requests in	没有未关闭的拉取请求：
+Successfully merged into	已成功合并到
+Checking Copilot access…	正在检查 Copilot 访问权限…
+Responses (GPT-5 series)	响应（GPT-5 系列）
+Filter your repositories	筛选你的仓库
+GitHub Privacy Statement	GitHub 隐私声明
+Change resolution choice	更改解决方案的选择
+Pull requests targeting	针对以下目标的拉取请求
+Server stack with cloud	服务端技术栈 + 云端
+Create a new repository	创建新仓库
+This branch is tracking	此分支正在跟踪
+Network and credentials	网络与凭据
+This is an example link	这是一个示例链接
+Learn about submodules.	了解子模块。
+Create branch based on…	基于…创建分支
+Quit and Install Update	退出并安装更新
+File resolution options	文件解决方案选项
+Commit message override	提交信息覆盖
+All checks have failed	所有检查均已失败
+All checks have passed	所有检查均已通过
+Revert progress button	回退进度按钮
+Add a local repository	添加本地仓库
+restart GitHub Desktop	重启 GitHub Desktop
+Command line arguments	命令行参数
+Notifications Settings	通知设置
+Loading Copilot usage…	正在加载 Copilot 使用情况…
+fork behavior settings	fork 行为设置
+Keep this code private	将此代码设为私有
+your global git config	你的全局 git 配置
+View all release notes	查看所有发行说明
+All conflicts resolved	所有冲突已解决
+No conflicts remaining	没有剩余冲突
+This will fast-forward	这将快进
+Pull request file list	拉取请求文件列表
+No pull requests found	未找到拉取请求
+No repository selected	未选择仓库
+create a pull request	创建拉取请求
+The compared branch (	所比较的分支（
+Open the Atom website	打开 Atom 网站
+is already up to date	已是最新状态
+Removing repositories	正在移除仓库
+Checking out a commit	正在检出提交
+The Git repository at	位于以下位置的 Git 仓库
+Checking for updates…	正在检查更新…
+Open in command line,	在命令行中打开，
+There are no changes.	没有任何改动。
+Deleting the worktree	正在删除工作树
+Check runs incoming!	检查运行即将到来！
+The current branch (	当前分支（
+is not a valid name.	不是有效的名称。
+Delete remote branch	删除远程分支
+delete the lock file	删除锁文件
+Dismiss this message	关闭此消息
+Successfully rebased	变基成功
+Loading system theme	正在加载系统主题
+Enable notifications	启用通知
+Terms and Conditions	条款与条件
+Connecting to GitHub	正在连接 GitHub
+Auto-Update Services	自动更新服务
+Resolve with Copilot	使用 Copilot 解决

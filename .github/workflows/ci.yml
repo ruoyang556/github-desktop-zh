@@ -1,0 +1,56 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: 校验词典与脚本
+    runs-on: windows-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 词典格式校验
+        shell: pwsh
+        run: ./tools/validate-dict.ps1
+
+      - name: PowerShell 语法检查
+        shell: pwsh
+        run: |
+          $files = @('一键汉化.ps1', 'tools/validate-dict.ps1')
+          $fail = 0
+          foreach ($f in $files) {
+            $tokens = $null
+            $errors = $null
+            [void][System.Management.Automation.Language.Parser]::ParseFile((Resolve-Path $f), [ref]$tokens, [ref]$errors)
+            if ($errors -and $errors.Count -gt 0) {
+              Write-Host ("[FAIL] " + $f + " -> " + $errors[0].Message)
+              $fail = 1
+            } else {
+              Write-Host ("[OK]   " + $f)
+            }
+          }
+          if ($fail -ne 0) { exit 1 }
+
+      - name: JavaScript 语法检查
+        shell: pwsh
+        run: |
+          foreach ($f in @('out/zh-cn.js', 'out/zh-menu-hook.js')) {
+            node --check $f
+            if ($LASTEXITCODE -ne 0) { exit 1 }
+            Write-Host ("[OK]   " + $f)
+          }
+
+      - name: 检查补丁文件是否包含注入标记
+        shell: pwsh
+        run: |
+          $h = Get-Content 'out/zh-menu-hook.js' -Raw
+          if ($h -notmatch 'ZHD-MENU-HOOK') { Write-Error 'zh-menu-hook.js 缺少 ZHD-MENU-HOOK 标记'; exit 1 }
+          $z = Get-Content 'out/zh-cn.js' -Raw
+          if ($z -notmatch 'zh-cn') { Write-Error 'zh-cn.js 内容异常'; exit 1 }
+          Write-Host '[OK]   注入标记齐全'
