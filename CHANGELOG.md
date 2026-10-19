@@ -14,7 +14,7 @@
 
 ### 新增
 
-- `dict10.tsv`（33 条：切换分支、Copilot 设置、通知设置）
+- `dict10.tsv`（35 条：切换分支、Copilot 设置、Git 配置位置）
 - 运行时层 `MIXED` 规则：中英混排文本只替换受控英文词
 - 运行时层 1.5s 定时补扫：兜住 portal 浮层错过 MutationObserver 的情况
 - 文档：`docs/ARCHITECTURE.md`、`SECURITY.md`、`CODE_OF_CONDUCT.md`

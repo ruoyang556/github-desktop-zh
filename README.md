@@ -161,7 +161,7 @@ pwsh -File .\一键汉化.ps1 -DryRun -AppDir "$env:LOCALAPPDATA\GitHubDesktop\a
 ```
 github-desktop-zh/
 ├─ 一键汉化.ps1                 主程序：安装 / -Restore / -Scan / -DryRun / -All / -AppDir
-├─ dict1~10.tsv                 界面文案词典（857 条，Tab 分隔）
+├─ dict1~10.tsv                 界面文案词典（859 条，Tab 分隔）
 ├─ main-dict.tsv                菜单与对话框标题词典（116 条）
 ├─ dict-regex.tsv               模板正则词典（33 条）
 │
