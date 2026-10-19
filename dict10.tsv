@@ -34,3 +34,8 @@ Switch to the new branch	切换到新分支
 Discard my changes and switch	丢弃改动并切换
 Git config	Git 配置
 Remote URL	远程 URL
+Use my global Git config	使用我的全局 Git 配置
+Use a local Git config	使用本地 Git 配置
+For this repository I wish to	对于此仓库，我希望
+Your Account Emails	你的账户邮箱
+The email in your global Git config (	你全局 Git 配置中的邮箱（
