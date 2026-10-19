@@ -16,9 +16,7 @@
 
 ![效果截图](docs/images/screenshot.png)
 
-<p align="center"><em>主界面 · 创建仓库别名对话框 · 右键菜单 —— 全部中文</em></p>
-
-<img src="docs/images/dialog-alias.png" width="420" alt="创建仓库别名对话框" />
+<p align="center"><em>GitHub Desktop 3.6.7 —— 菜单栏、侧栏、提交区、建议卡片全部中文</em></p>
 
 ---
 
@@ -178,8 +176,7 @@ github-desktop-zh/
 │  ├─ 教程.md                   手把手教程（手动方案、扩词、FAQ）
 │  ├─ ARCHITECTURE.md           架构与设计决策（四层模型、数据流、失败模式）
 │  └─ images/
-│     ├─ screenshot.png         主界面
-│     └─ dialog-alias.png       别名对话框
+│     └─ screenshot.png         效果截图
 │
 ├─ .github/
 │  ├─ workflows/
