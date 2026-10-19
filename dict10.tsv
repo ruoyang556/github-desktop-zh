@@ -32,3 +32,5 @@ Create and Switch	创建并切换
 Branch name is already taken.	该分支名已被占用。
 Switch to the new branch	切换到新分支
 Discard my changes and switch	丢弃改动并切换
+Git config	Git 配置
+Remote URL	远程 URL

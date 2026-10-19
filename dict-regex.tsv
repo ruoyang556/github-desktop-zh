@@ -30,3 +30,4 @@
 (Pulling )(\$\{[^}]*\})	正在拉取 $2
 \(null==t\.alias\?"Create":"Change"\)\+" alias"	(null==t.alias?"创建":"更改")+"别名"
 \(t\.alias==null\?"Create":"Change"\)\+" alias"	(t.alias==null?"创建":"更改")+"别名"
+(Primary remote repository \()(\$\{[^}]*\})(\) URL)	主远程仓库（$2）URL
